@@ -1,16 +1,13 @@
-# appturorialapi
+# Flutter + Laravel API JWT Authentication
 
-A new Flutter project.
 
-## Getting Started
+The code is 100% login, 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Codigo Alpha Flutter]
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://github.com/codigoalphacol/api_laravel_flutter/blob/master/laravel%20intro.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Los invitamos para que se suscriban en el canal de Youtube
+
+https://youtu.be/FWZvri_-X5w
